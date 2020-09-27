@@ -65,6 +65,7 @@ class _MyAppState extends State<MyApp> {
                   padding: EdgeInsets.fromLTRB(20, 0, 20, 5),
                   margin: EdgeInsets.fromLTRB(20, 0, 20, 5),
                   child: TextFormField(
+                    obscureText:true,
                     decoration: InputDecoration(
                       hintText: 'Enter your password',
                     ),
