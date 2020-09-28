@@ -7,10 +7,10 @@ This is a basic flutter project
 
 ## Screenshots:
 
-<div>
-	<img src="Screenshots\home.jpg">
-	<img src="Screenshots\login.jpg">
-	<img src="Screenshots\signup.jpg">
+<div >
+	<img src="images\home.jpg" style="margin: 10px">
+	<img src="images\login.jpg" style="margin: 10px">
+	<img src="images\signup.jpg" style="margin: 10px">
 </div>
 
 ## Tools used:
